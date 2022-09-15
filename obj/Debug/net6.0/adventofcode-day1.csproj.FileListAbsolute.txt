@@ -1,0 +1,15 @@
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\bin\Debug\net6.0\adventofcode-day1.exe
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\bin\Debug\net6.0\adventofcode-day1.deps.json
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\bin\Debug\net6.0\adventofcode-day1.runtimeconfig.json
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\bin\Debug\net6.0\adventofcode-day1.dll
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\bin\Debug\net6.0\adventofcode-day1.pdb
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.csproj.AssemblyReference.cache
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.AssemblyInfoInputs.cache
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.AssemblyInfo.cs
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.csproj.CoreCompileInputs.cache
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.dll
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\refint\adventofcode-day1.dll
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.pdb
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\adventofcode-day1.genruntimeconfig.cache
+C:\Users\Axion\source\repos\adventofcode-day1\adventofcode-day1\obj\Debug\net6.0\ref\adventofcode-day1.dll
