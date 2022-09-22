@@ -1,1 +1,1 @@
-# adventofcode2021-day1
+# advenOfCode2021Day1_1
